@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CA.SM_Env>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-08bd74ed-f6c2-447b-8ddb-9bdd66ef1afa">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>sps-r12.52sp1</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}8w+fDZj7lWrcxbm/tVBcLCVrMZI3aK1TXoVxLAzt4T1gb3+turbC9ubQdkdBL870ivy79URezSqk37cqIzBPx8f5cj8jp2fLAuptIvxKZ9Ira4rfoiUc4ae1bkZqQv3onnAGBfx/dE/U/dIqMpyiY1mb72/OtqAyf86tL7K112INRi34QIT554r0pAr61sTM</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-3d257140-1107-4d3f-a51a-fa0f91f2c5d7">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>smr125sandbox1host</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}KD+p0aTIxcPW4HrqZQyOQ+aLWWLLRv8IgIPYZgoE15CEb6pIC1tM4LYT0/sEdj4YWAxMxDcIF3t6+Sen8gzDEgNjOALbQIx3Q6EraVSbU2G+HwPR8wnzD0X/5pI6yChPp6gi1cL+YbSYV3wYcL6nJ/jpqem7NXXIsOg8vas2LKvLb+CQKUBUwKH21JCoxv5D</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>1332855947</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-3ee27f0c-457d-4576-8f6b-794a4f095f03">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spsr12.52sp1cr2</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}pOFa7LPyMz7EIxQ7+/tK5cl7TbnfxGUv1ydSpt9uf5QKMWWUda6szY6zBS530Gy23dI/Lb2+o5Nn+BjRGdiapR2RXsHDDSK0Nt1HxQdfttBNm1UoxG/581q6v/CO98/44akYLqbTHPe07A6argv0wgnauY+j/2xojI0RzxQNIU2gUfjP8UXnt65WldFPihbn</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-47438a48-d258-4802-a446-e52cd5424e8c">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spsr12.52sp1cr2_sa01</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}pIzyNVfLvpig0whD0kMFT6y0VJOdWIUj/xOEQmFCCbYRy6LayBL8J3hJICusIM8Nb2KYlibNvvNo21Lxkvjzky/RkAM4+DIb9Q0wWeEPuZqAVfVG/29zdsox2lp9rW00vEURX0xWBadjkBqBkDq8VlcLH74tGxQ14uzRndLUL2UY3umRxVcFHDdSypo3GPwM</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-4a7ae67a-984e-4719-a793-71a0ec4a8c68">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.redhatr6sp6</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}5W6TQj+58VCo8MEDNWKLuvS1vGEBk0GVD9eVlp/b07zMXh/xx8242QWm51f2K0Zzfu7aiV+SwzEnM+AXO8iX4wPwB0xRsnlBoUSVI54jY2MvMTsFyBw4KUqy+elav4KDo3672ZKWAbPg3CnNsyK9xNL1R4V6/SU0xG2KfF5tldQGMoUTS+fAnS65OT9saC4+</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-5a995a33-f931-4fd2-9338-d6eaeab858cd">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.r6sp5cr35</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}+r2kf41YmWC36mEINh1+vyCmMr4DuWMaNQz77yHCRHmh8APSwXzVRHnf4BL2hlgg9rvgWZxJJd9UEny+zWmbEGKhQ4RauZYs2qXtP0CTC5mFhA6aY1OcpH5O+zMLngfp75BlUxIHjnXrK0mr4CBO7YHDj5Tf7znNgjhWoxvKK2x70KmTh8Xbb8MtoynOa94s</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-6b62cdfe-4de1-4172-899d-83d248573828">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spsr1251</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}hh45BO/nbteYVWEOEXQIdFrWItDNqXYDc9V03gdr+E3/bZh+LR6rBoKUIyt7o2zMPn7NJ693BZQ27mYCqFhgaP8ncDABe7fhz7Egf3xrfqJqOaQEI6a7lwovxgGBMrg7O9d0udAdD/pdIup6VLKYTIt1sCUP0X7vW6XZC7pDm4bwMJX3FmigVJK/2H9qL1Tk</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-6cb60ef0-478b-47e8-8f0a-b2f131191e50">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>sps-r12.52sp1_sa01</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}6CBYPUa7gdotoAOtwNd04URJNoY6NXWGEnWmsTDRr/8FnduhJrgvY/L5JoXyNESI+GhGH7OFV/l0G0mrveQ4cX0/Y7B3Y+eoLgMUFNVFXDeNx+cHvCbKPinm15by77cRbcIGgCKANJjP3nkj0Xiq3bYotDC4dl7lbie33viJQrFcU9aD4vqJMRnyUKwiewqT</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-88b275fa-f9c8-426c-b25c-0a12aa931a2f">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.lodr12.5</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}BEVk3J2+H0SrYNOrsiEvHytCDyB4pLFTOp1Rf1HxJbCoKRuYUd1joLkxGvtszqVY7ors85RThs8ZC18KvztiZi2KU+42WV8UcEZo6YJaD2fGPeqtrdLivjLahEaiVw5GGNLJKrXz/xG2AX02ca949P2TX1LtzMVZnXZwyiNPE0ZYmGPh7FP2oSkBJ1SGagf5</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-8ad8f4f1-1c6f-4584-8aaf-75c1f0b3c513">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost-r12.51sp1agent</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}L/KD3DQAp/4kVT6GeIuG8wr3uZ8ufJC1AspG7duDTmgT9dRPWmYIHV/T3HXOClp+xNMmvDsKbJP5gSTol0nxbwtudjqvgI+LB8Z7qLuL2vpzObOj3THOmYCN0N9YXtVI/Z8El/Z718srYWIiZberFQIsu39/hg8yfyxZ00SmByEr3NjNV0F9vpJ74y8I4CIw</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-9ea2d202-3bd7-4b32-8c6d-30abf40611d9">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spstraining2_sa01</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}4b65R3D9Ztk8OuyynEfQHs/jPnsS8ccjAa/jfoKEv2uoMFzrpjqlEtYxuUcTlwrDiMMdGE0wKUQZ3bv6DcSr0wmKz23TTGR3ZITWiGXmwC4/z0FjP+XlRfK7kHa5B7Oa4nXwLX0u+E/FBZkfFjy+1VW3CwfUz0u6dPZ65AOeGMq18MNnbIg0ygph4Uzji7M+</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2017-01-20T06:10:24" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="os:NT AUTHORITY/SYSTEM" Xid="CA.SM::TrustedHost@24-a21f9b08-0546-4eeb-b6d0-8713a4d8a4b6">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spsr12.6</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}XzkMvnI3LVd3eyBRxijKjfSZZhrpOp31Sp3WoPQlD1d0BOa7aOUPf+vWq6HgHsBy4O1XdV/ImVNx4fptSR1kaXMr9PdtP6hB7JacGcNOJopZt2gMyoreGdXPhvQ6t53lu7Hl3x0OcihAS4oPg13p6BxedqSH4T/X7WJdPdVJ5o+jQQwxhT7XSrh8W/MNTDc0</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-a3f702ec-713e-4fcd-b72b-d1d93444ce4c">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spstrainingmark_sa01</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}VaLpTmgLdAjg249dMbr6XWpLEkE8R21Gz6rK4wwccTH2TF/Z1azk+UBLIOLU8SA+Yjb/axcbDoHNm5rvD8iIk15/W8lXe7CbAZU6ekIMZn0WJChTO90uwyUurkt+42QEOrsb8+qmWH+LNuxznQQJ3A7NIhflubtDA+Z2Y5Mu9SkMfiRq6PahP4PRqCqjFGRl</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-a7e2f653-6e98-4e48-bf6b-27763b06feef">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spstrainingmark</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}OVKWiTcxOhy9GzD6j8I3V6pOnm8HBft1Q55zqUeEF4ph6cIx05JiGGTM8tvemMg/dgEuJgbgXRACfNz10AF6CIcGYqBpPLYp937idLMVj+aWl3hVPeSfEzuEvYIYBYg/t5hfHLR6m+a8TvZcleOImQcIECKJdl0982sH8eNHXeQQ4WxQDRmIiO/TEloKXMen</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-bc9f9c14-77a8-4a64-8c77-2a524be42b53">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.r6sp5cr35-win2003</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}ZAbhzeGn8DkegNLyeJ1nZgcQjBwZ1jWj4ow49vQ2od9MeRo2757TGMWCvTh7j9xcuCh7BEPMY1QriMmKDjgKhfqaksRG/kvP31EOAUjuct3ccmKwYmA/Qwu+5G6aXJcehBwoeTVbZapjBlIJgu9x+FUqUBBod4Wb/g3aNaBzeAXXvr+q7MrdugHS+JPgQAqL</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-c9d5dfb9-a8d6-40a7-9a47-211661aafadf">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.redhatf6</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}dDh6/ja2ACtKTMpliXcJnu75w5Iqbm74ZmEfwiE9mZ8xcZkwn9u5yy0VVFjwzkmrB7SQgEWlauXD1JNYyOJR4xZCfzWZ/yOpHYs3LqW/YF8vdtePdH24D0iLTLMB9OjJV5ByV1j+NhRAdiG/bKv38hbQ2007aF7AzlbETsv5coxaSqFKV6g1m2VJt/sXZube</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-cc5c9017-f687-4066-856b-d48c2979fd30">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.redhat_sa01</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}V4B8PuYZ9NW2EjBhXQWR1riXHEGOqcQSJ1xsvwRBgpcaJ8xm/4nAJRqfooHnpd0zROd02pDLlxZiPcY+4vBuKLBubxHQOJMgcHc041gD6H7XeFwDUUUdRN2Iq/kCTLpj8/hhbnUmUijrY8eX+A5dThno6s81dlRj4sPQECjzbXsIjVVa7uMZlMIz0KBqdUon</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-d49c1b58-0af8-41a7-85f5-5c63a57212c1">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.spstraining2</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}Z74OIPw3gy77uokZJTNgUQLNkZfUWaDg2mTFxZwtzIEm8rVvmqUW1UEI8MPBQ+bgHnn1l4unttkg+/KtqqasK3NrxQlPEavTVEoDRRK5EcmPrgmgK9RG2M4spwBfmYTHVh3VlZGcSHwZTB6fP7Qe8dbE4+AHH3TM5YceHN2h8KFu3Z3ResjfZJINKNDHEBk+</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" ModifiedDateTime="2015-07-28T00:35:18" UpdateMethod="Internal" UpdatedBy="os:NT AUTHORITY/SYSTEM" Xid="CA.SM::TrustedHost@24-d5e4c678-d186-4fda-8a3c-feecd4cd1b33">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>default_smr125sandbox1_aas</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}6xqUiPP6qDfxCw9VMLy1b6qTOdGX3GnFHNOoBn7j2botAP9DmQw7WKsFx+ssvhMvW+Hr3TMPmhwPrhrj2h+nggaPH+Yn6ez7yng2CcJg2KgqyY5RqTAMc0xHed4YkciAy4ytx1/jCbw6tbd8KZcU55WtPXdVrkuCBbGVSZ2IPq+J4KNr7is7e/a/1lOyZH8d</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-f7e19165-a7c2-4164-9cef-6299546990d3">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Automatically generated TrustedHost object</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>thost.redhat</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}jHeA7zwkW4h3dE+NyhDufLhzMMC73BA4V/UClCfVNUQ85KyHt/g/LlVylJUslzQ8K9kbtgoM1ZqcyITQmxIffqeRKuonzkkJ7h0bRJ2fdAji0NwFCbtzMGecIbEz/14fvum2PNZEqimV7Tajz728zzvqL3qCHJcZ2OOw2KqD0x3WSSV1lJs5aat9EohYkOw4</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-xpsagent-fwrk-4092-8afc-05aX51922107">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Generated by XPSRegClient</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.IpAddr">
+                <StringValue>127.0.0.1</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>localhost__0</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}1mLdTJMYLhja0W2DX76HZOjQ1R9pnx1vl9HqeyNbITcB0I/U/g8gqL759o4UqXFVbGya5GWTNOuzYAG25zyTqr7XuK6Y54zNqIAbwB/XTuMXhSZKkl/T3c1q0QETMLjwie3Kwvw5M5TU65d5FqJ/YhxE1U2sMU+DGG33BM3kOfMs42MXMo7h3PEdT4vnBy9s</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+        </Object>
+    <Object Class="CA.SM::TrustedHost" CreatedDateTime="2015-07-28T00:01:28" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::TrustedHost@24-xpsagent-fwrk-4eaf-8527-15bX4F71990C">
+            <Property Name="CA.SM::TrustedHost.Desc">
+                <StringValue>Generated by XPSRegClient</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.IpAddr">
+                <StringValue>192.168.219.140</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Name">
+                <StringValue>smr125sandbox1__0</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.RolloverEnabled">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.Secret" Sensitive="Yes">
+                <StringValue>{AESKW}gRgVFCQwFJIcfbctk/JSJ4KLNUAVh95IIdT7xIaP1WNNPMOhmdAXSXZkL1RhxhR+IjQnLJhDCmHZzU+/cML6VOKEkhs9/alSefgQEo/6xNKcCCHES5mVGBiwaYyQIm/M+UKg4icSGHLymNlIlebJdf91zlLhdg0sgXnwFTLVl9niSOCkT3smYlY8MyC+0VHe</StringValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretGenTime">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::TrustedHost.SecretUsedTime">
+                <NumberValue>1332844814</NumberValue>
+            </Property>
+        </Object>
+</CA.SM_Env>
