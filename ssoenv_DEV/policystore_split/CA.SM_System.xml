@@ -12470,6 +12470,127 @@
                 <NumberValue>60</NumberValue>
             </Property>
         </Object>
+    <Object Class="CA.SM::PasswordPolicy" CreatedDateTime="2017-05-28T23:18:35" ExportType="Replace" UpdateMethod="GUI" UpdatedBy="siteminder" Xid="CA.SM::PasswordPolicy@19-65e957c5-3328-4275-b256-204b84c5ed57">
+            <Property Name="CA.SM::PasswordPolicy.Active">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.Class">
+                <StringValue>all</StringValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.DictionaryPartial">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.DictionaryType">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.ExpiredRedirect">
+                <StringValue>http://www.example.com/siteminderagent/forms/smpwservices.fcc</StringValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.Global">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.ImmediateRedirect">
+                <StringValue>/siteminderagent/forms/smpwservices.fcc</StringValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.InactiveRedirect">
+                <StringValue>/siteminderagent/forms/smpwservices.fcc</StringValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.LoginDaysWarning">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.LoginMaxFailures">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.LoginMaxInactivity">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.MaxFailuresRedirect">
+                <StringValue>/siteminderagent/forms/smpwservices.fcc</StringValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.Name">
+                <StringValue>Test</StringValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMaxLength">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMaxRepeatingChar">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinAlpha">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinAlphaNum">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinLength">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinLowerAlpha">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinNonAlpha">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinNonPrintable">
+                <NumberValue>-1</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinNumbers">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinPunctuation">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWMinUpperAlpha">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWPercentDifferent">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWPercentSequence">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWReuseCount">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWReuseDelay">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PWSpecialsLength">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PasswordBehavior">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.Path">
+                <StringValue>all</StringValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.Priority">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PwdChangeDaysGrace">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PwdChangeGraceLogins">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.PwdChangePeriod">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.Reenablement">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.Resolution">
+                <NumberValue>1</NumberValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.UserDirectoryLink">
+                <LinkValue>
+                    <XID>CA.SM::UserDirectory@0e-2a5971b8-fecd-4baa-8e84-35c38437a0af</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.SM::PasswordPolicy.WarningRedirect">
+                <StringValue>/siteminderagent/forms/smpwservices.fcc</StringValue>
+            </Property>
+        </Object>
     <Object Class="CA.SM::RootConfig" CreatedDateTime="2015-07-28T00:01:25" ExportType="Replace" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.SM::RootConfig@1c-67b3c2b0-9e28-11d3-95e7-00c04f7468ef">
             <Property Name="CA.SM::RootConfig.ADEnhanced">
                 <BooleanValue>false</BooleanValue>
