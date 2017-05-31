@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Object Class="CA.FED::OAuthEntityBase" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::OAuthEntityBase@40f8361c-36bb-450d-b666-e9d26181db39">
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenQueryParameter">
+                <StringValue>access_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@c01981e0-928e-4c82-891b-9a278f7a0473</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AuthorizationURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@40b461a4-f7f5-4eee-bd0e-a185f70242f9</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.IsAuthzServerRemote">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.Scope">
+                <StringValue>email</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.SupportAuthzHeader">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Description">
+                <StringValue>Facebook OAuth2.0 Authorization Service</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.ID">
+                <StringValue>Facebook</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Name">
+                <StringValue>FacebookAuthorizationServer</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.OAuthVersion">
+                <NumberValue>1</NumberValue>
+            </Property>
+        </Object>

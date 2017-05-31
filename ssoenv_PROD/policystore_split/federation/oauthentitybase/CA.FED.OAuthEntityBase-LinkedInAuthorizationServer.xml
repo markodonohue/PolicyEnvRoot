@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Object Class="CA.FED::OAuthEntityBase" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::OAuthEntityBase@04fb4ef6-46ae-4846-bfb9-9511d1b15ee4">
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenQueryParameter">
+                <StringValue>oauth2_access_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@c7c17548-fadb-4e3a-b861-45ddbf956b62</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AuthorizationURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@10cbadfc-ed7a-4b71-9cec-371c75dc2cbb</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.IsAuthzServerRemote">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.Scope">
+                <StringValue>r_fullprofile r_emailaddress</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.SupportAuthzHeader">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Description">
+                <StringValue>LinkedIn OAuth 2.0 Authorization Service</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.ID">
+                <StringValue>LinkedIn</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Name">
+                <StringValue>LinkedInAuthorizationServer</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.OAuthVersion">
+                <NumberValue>1</NumberValue>
+            </Property>
+        </Object>

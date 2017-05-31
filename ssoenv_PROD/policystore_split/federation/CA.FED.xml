@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CA.FED>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@10cbadfc-ed7a-4b71-9cec-371c75dc2cbb">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://www.linkedin.com/uas/oauth2/authorization</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAuthorizationService.IsAuthzService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@22d83c30-4047-43b7-be02-84b0718212ec">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://accounts.google.com/o/oauth2/auth</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAuthorizationService.IsAuthzService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@40b461a4-f7f5-4eee-bd0e-a185f70242f9">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://www.facebook.com/dialog/oauth</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAuthorizationService.IsAuthzService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@6d0440c6-f176-4cdf-90ac-5a0426a31228">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://login.live.com/oauth20_authorize.srf</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAuthorizationService.IsAuthzService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@7917b57e-9618-47a4-8465-bf19b714cf85">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://api.twitter.com/oauth/authorize</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAuthorizationService.IsAuthzService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@7b965d61-c8df-4ac1-8970-35ec7dfa637e">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://accounts.google.com/o/oauth2/token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAccessTokenService.IsAccessTokenService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@96f3454d-2a6a-4efc-bffc-edc388fa94bb">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://api.twitter.com/oauth/access_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAccessTokenService.IsAccessTokenService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@98361505-bd88-48be-9a81-fe1f9c796c53">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>binding</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://api.twitter.com/oauth/request_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthTempCredsRequestService.IsTempCredsService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@c01981e0-928e-4c82-891b-9a278f7a0473">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://graph.facebook.com/oauth/access_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAccessTokenService.IsAccessTokenService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@c7c17548-fadb-4e3a-b861-45ddbf956b62">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://www.linkedin.com/uas/oauth2/accessToken</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAccessTokenService.IsAccessTokenService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+    <Object Class="CA.FED::Endpoint" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::Endpoint@ccff784c-408f-43aa-82db-dfaa0e57e413">
+            <Property Name="CA.FED::Endpoint.Binding">
+                <StringValue>urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect</StringValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Index">
+                <NumberValue>0</NumberValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.IsDefault">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::Endpoint.Location">
+                <StringValue>https://login.live.com/oauth20_token.srf</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthAccessTokenService.IsAccessTokenService">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+        </Object>
+</CA.FED>

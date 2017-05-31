@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Object Class="CA.FED::OAuthEntityBase" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::OAuthEntityBase@f9ca1e54-6c75-4d24-b580-a0c17918807e">
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenQueryParameter">
+                <StringValue>oauth_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@96f3454d-2a6a-4efc-bffc-edc388fa94bb</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AuthorizationURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@7917b57e-9618-47a4-8465-bf19b714cf85</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.IsAuthzServerRemote">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.TempCredsURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@98361505-bd88-48be-9a81-fe1f9c796c53</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Description">
+                <StringValue>Twitter OAuth 1.0a Authorization Service</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.ID">
+                <StringValue>Twitter</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Name">
+                <StringValue>TwitterAuthorizationServer</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.OAuthVersion">
+                <NumberValue>2</NumberValue>
+            </Property>
+        </Object>

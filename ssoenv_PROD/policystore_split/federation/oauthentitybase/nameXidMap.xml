@@ -1,0 +1,22 @@
+<list>
+  <com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+    <xid>CA.FED::OAuthEntityBase@04fb4ef6-46ae-4846-bfb9-9511d1b15ee4</xid>
+    <domainName>LinkedInAuthorizationServer</domainName>
+  </com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+  <com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+    <xid>CA.FED::OAuthEntityBase@40f8361c-36bb-450d-b666-e9d26181db39</xid>
+    <domainName>FacebookAuthorizationServer</domainName>
+  </com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+  <com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+    <xid>CA.FED::OAuthEntityBase@b4737300-d0ff-44a6-8901-b45b1c6c7970</xid>
+    <domainName>MicrosoftAccountAuthorizationServer</domainName>
+  </com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+  <com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+    <xid>CA.FED::OAuthEntityBase@f1984ca6-08ae-47e6-bbb5-7f53ebb6950e</xid>
+    <domainName>GoogleAuthorizationServer</domainName>
+  </com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+  <com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+    <xid>CA.FED::OAuthEntityBase@f9ca1e54-6c75-4d24-b580-a0c17918807e</xid>
+    <domainName>TwitterAuthorizationServer</domainName>
+  </com.ca.psbackup.versioncontrol.DomainXidMapEntry>
+</list>

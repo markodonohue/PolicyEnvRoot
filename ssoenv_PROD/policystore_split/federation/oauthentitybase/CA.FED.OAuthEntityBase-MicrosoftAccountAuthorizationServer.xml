@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Object Class="CA.FED::OAuthEntityBase" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::OAuthEntityBase@b4737300-d0ff-44a6-8901-b45b1c6c7970">
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenQueryParameter">
+                <StringValue>access_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@ccff784c-408f-43aa-82db-dfaa0e57e413</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AuthorizationURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@6d0440c6-f176-4cdf-90ac-5a0426a31228</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.IsAuthzServerRemote">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.Scope">
+                <StringValue>wl.basic wl.emails</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.SupportAuthzHeader">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.SupportedAccessTokenTypes">
+                <StringValue>bearer</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Description">
+                <StringValue>Microsoft Account Authorization Service</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.ID">
+                <StringValue>MicrosoftAccount</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Name">
+                <StringValue>MicrosoftAccountAuthorizationServer</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.OAuthVersion">
+                <NumberValue>1</NumberValue>
+            </Property>
+        </Object>

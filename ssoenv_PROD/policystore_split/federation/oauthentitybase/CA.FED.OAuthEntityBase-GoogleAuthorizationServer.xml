@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Object Class="CA.FED::OAuthEntityBase" CreatedDateTime="2017-03-03T22:32:25" ExportType="Replace" ModifiedDateTime="2017-03-03T22:32:25" UpdateMethod="Internal" UpdatedBy="XPSDictionary::Import" Xid="CA.FED::OAuthEntityBase@f1984ca6-08ae-47e6-bbb5-7f53ebb6950e">
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenQueryParameter">
+                <StringValue>access_token</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AccessTokenURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@7b965d61-c8df-4ac1-8970-35ec7dfa637e</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.AuthorizationURLLink">
+                <LinkValue>
+                    <XID>CA.FED::Endpoint@22d83c30-4047-43b7-be02-84b0718212ec</XID>
+                </LinkValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.IsAuthzServerRemote">
+                <BooleanValue>true</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.Scope">
+                <StringValue>https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.SupportAuthzHeader">
+                <BooleanValue>false</BooleanValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityAuthzServerRemote.SupportedAccessTokenTypes">
+                <StringValue>Bearer</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Description">
+                <StringValue>Google OAuth2.0 Authorization Service</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.ID">
+                <StringValue>Google</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.Name">
+                <StringValue>GoogleAuthorizationServer</StringValue>
+            </Property>
+            <Property Name="CA.FED::OAuthEntityBase.OAuthVersion">
+                <NumberValue>1</NumberValue>
+            </Property>
+        </Object>
